@@ -80,3 +80,4 @@ Você precisa ter instalado:
 ## Tecnologias Utilizadas
 - [HTML]
 - [Markdown]
+- [Doc]
