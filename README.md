@@ -21,16 +21,62 @@
 
 Conteúdo
 <ul>
-    <li>
+    <li> 
         <a href="#descricacao">Descrição</a>
     </li>
     <li>
         <a href="#statusprojeto">Status Projeto</a>
     </li>
+    <li>
+        <a href="#features">Features</a>
+    </li>
+    <li>
+        <a href="#prerequisitos">Pré Requisitos</a>
+    </li>
+    <li>
+        <a href="#mapaProjeto">Mapa do Projeto</a>
+    </li>
+    <li>
+        <a href="#tecnologias">Tecnologias</a>
+    </li>
 </ul>
 
 ## :rocket: Status do Projeto
-<h4 id="statusprojeto" align="left"> 
+<p id="statusprojeto" ></p>
+<h4 align="left"> 
     Em construção... 
 </h4>
 
+<p id="features" ></p>
+
+## Features
+- [x] README - Padrões de Documentação
+- [ ] README - Usando SSH
+
+<p id="prerequisitos" ></p>
+
+## Pré Requitos
+Você precisa ter instalado:
+
+<ul>
+    <li>
+        <a href="https://code.visualstudio.com/">VS Code</a>
+    </li>
+</ul>
+
+<p id="mapaProjeto" ></p>
+
+## Mapa do Projeto
+```
+├───img
+└───src
+    ├───app
+    ├───interface
+    └───repository
+```
+
+<p id="tecnologias" ></p>
+
+## Tecnologias Utilizadas
+- [HTML]
+- [Markdown]
