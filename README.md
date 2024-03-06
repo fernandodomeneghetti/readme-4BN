@@ -74,7 +74,6 @@ Você precisa ter instalado:
     ├───interface
     └───repository
 ```
-
 <p id="tecnologias" ></p>
 
 ## Tecnologias Utilizadas
